@@ -7,7 +7,7 @@ import {
 // The setting for this workflow
 export const workflowSettings: WorkflowSettings = {
   id: "onPostUserAuthentication",
-  name: "Post auth".
+  name: "Post auth",
   trigger: WorkflowTrigger.PostAuthentication,
 };
 
